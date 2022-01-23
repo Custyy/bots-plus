@@ -18,4 +18,4 @@ If the bot with the idsi entered has been added to the system before, it informs
 
 Increase the number of members and servers of your size by simply increasing the number of servers of your bot.
 
-[![https://cdn.discordapp.com/attachments/851167975217692682/934897449871495168/ss.PNG]]
+![](https://cdn.discordapp.com/attachments/851167975217692682/934897449871495168/ss.PNG)
